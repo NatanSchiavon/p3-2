@@ -19,6 +19,10 @@ const perguntas = [ //abre uma lista de perguntas
             texto: "Ah que não sei que sei que",
             afirmacao: "Afirmação",
         },
+        { //alternativa 3
+            texto: "Ah que não sei que sei que",
+            afirmacao: "Afirmação",
+        },
     ]
     }, //fecha objeto de pergunta
     { //abre objeto de pergunta
