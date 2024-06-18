@@ -16,11 +16,19 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Afirmação"
         },
         { //alternativa 2
-            texto: "Ah que não sei que sei que",
+            texto: "honda",
             afirmacao: "Afirmação",
         },
         { //alternativa 3
-            texto: "Ah que não sei que sei que",
+            texto: "audi",
+            afirmacao: "Afirmação",
+        },
+        { //alternativa 4
+            texto: "bmw",
+            afirmacao: "Afirmação",
+        },
+        { //alternativa 5
+            texto: "mercedes",
             afirmacao: "Afirmação",
         },
     ]
