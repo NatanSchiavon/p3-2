@@ -12,7 +12,7 @@ const perguntas = [ //abre uma lista de perguntas
         enunciado: "qual marca de carro você prefere?",
         alternativas: [
         { //alternativa 1
-            texto: "Sei que sei que lá",
+            texto: "volkswagen",
             afirmacao: "Afirmação"
         },
         { //alternativa 2
